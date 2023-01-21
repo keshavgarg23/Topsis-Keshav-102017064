@@ -5,14 +5,14 @@ This is a python library which implements topsis.Topsis is a technique which is 
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the package
 ```
-pip install Topsis_Keshav_102017064
+pip install Topsis_Keshav_Garg_102017064
 ```
 
 
 ## Import
 
 ```
-from Topsis_Keshav_102017064 import topsis
+from Topsis_Keshav_Garg_102017064 import topsis
 ```
 
 ## Usage
@@ -41,7 +41,7 @@ test.csv (Input):
 
 
 ```
-from Topsis_Keshav_102017064 import topsis
+from Topsis_Keshav_Garg_102017064 import topsis
 import pandas as pd
 df = pd.read_csv('./test.csv')
 weights = "+,+,+,+,-"
